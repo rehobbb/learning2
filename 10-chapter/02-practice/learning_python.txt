@@ -1,0 +1,3 @@
+in python you can perform mathematical calculations
+in python you can sort your strings
+in python you can read your files

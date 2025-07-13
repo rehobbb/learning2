@@ -1,0 +1,7 @@
+def car_info(manu,sty,**cars):
+    cars['manufacture'] = manu
+    cars['style'] = sty
+    return cars
+car = car_info("xiaomi","su7",year=2024,price=24)
+print(car)
+    
