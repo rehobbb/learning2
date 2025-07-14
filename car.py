@@ -19,3 +19,4 @@ class Car:
     print("hello")
     print("hi")
     print("hhahah")
+    print("hahahah")
