@@ -17,3 +17,4 @@ class Car:
     def increment_odometer(self,miles):
         self.odometer_reading += miles
     print("hello")
+    print("hi")
