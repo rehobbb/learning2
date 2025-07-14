@@ -10,3 +10,4 @@ while polling_active:
 print("\n......the polling result ........")
 for name,response in responses.items():
     print(f"{name} like to climb the {response} mountain")
+    print("haha")
