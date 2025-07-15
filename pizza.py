@@ -4,3 +4,4 @@ def make_pizza(size,*toppings):
         print(f"- {topping}")
 print("haha")
 print('piza')
+print('pizza3')
